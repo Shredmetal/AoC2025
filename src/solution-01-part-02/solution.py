@@ -1,5 +1,3 @@
-import math
-
 with open("puzzle-input.txt", 'r') as file:
     puzzle_input_lines = file.read()
     puzzle_input = puzzle_input_lines.splitlines()
